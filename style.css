@@ -214,13 +214,13 @@ main .social-media a:hover {
         flex-direction: column;   
 }
 .title {
-    font-size: 2.5rem; 
-    padding-top: 10rem; 
+    font-size: 2rem; 
+    padding-top: 5rem; 
 }
 
 .title span {
-    font-size: 2rem;
-    margin: 0 0.2rem; 
+    font-size: 1rem;
+    margin: 0 0.1rem; 
 }
 
 h1 {
